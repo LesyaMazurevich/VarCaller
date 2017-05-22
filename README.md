@@ -16,27 +16,27 @@ Note, you may need to sudo some of these commands.  Run as root at your own risk
 
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-# Install samtools:
+<b>Install samtools:</b>
 
 brew install homebrew/science/samtools 
 
-# Install bcftools:
+<b>Install bcftools:</b>
 
 brew install homebrew/science/bcftools
 
-# Install BWA:
+<b>Install BWA:</b>
 
 brew install bwa
 
-# Install wget
+<b>Install wget:</b>
 
 wget http://biopython.org/DIST/biopython-1.69.tar.gz
 
-# Unpack BioPython 
+<b>Unpack BioPython:</b> 
 
 tar -xzvf biopython-1.69.tar.gz 
 
-# Build BioPython
+<b>Build BioPython:</b>
 
 python setup.py build
 python setup.py test
