@@ -12,7 +12,7 @@ I recomend using the homebrew package manage to install these depenencies.  This
 
 Note, you may need to sudo some of these commands.  Run as root at your own risk!
 
-# Install Brew:
+<b> Install Brew:</b>
 
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
