@@ -45,5 +45,7 @@ tar -xzvf biopython-1.69.tar.gz
 <b>Build BioPython:</b>
 
 python setup.py build
+
 python setup.py test
+
 sudo python setup.py install
